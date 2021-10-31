@@ -3,12 +3,12 @@
 
 function App() {
   return (
-    <div className="app text-white">
-      <header className="bg-gray-900">
+    <div className="text-white min-h-screen bg-gray-800">
+      <header className="bg-gray-900 h-14">
         hej
       </header>
       <div className="container">
-
+        hej
       </div>
     </div>
   );
