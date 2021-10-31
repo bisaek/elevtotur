@@ -1,15 +1,13 @@
 // import logo from './logo.svg';
 // import './App.css';
+import Header from './header/header'
+import Container from './container/container'
 
 function App() {
   return (
     <div className="text-white min-h-screen bg-gray-800">
-      <header className="bg-gray-900 h-14">
-        hej
-      </header>
-      <div className="container">
-        hej
-      </div>
+      <Header></Header>
+      <Container></Container>
     </div>
   );
 }
